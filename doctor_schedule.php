@@ -31,7 +31,6 @@
     	    	<link href="    	https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" rel="stylesheet">
 
 
-	    <link href="../doctor-appointment-management-system/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
 	  
 

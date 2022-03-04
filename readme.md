@@ -8,6 +8,7 @@ Civil Hospital Management System using MySQL, Php and Bootstrap
 3. The password should be encrypted and the password field shouldn't be displayed in the admin panel.
 4. Chatbot will provide ease to patients to get a doctor according to their disease.
 5. Addition of more details on payment - such as date of the payment made, amount paid, etc.
+6. Reports delivery via email.
 
 ## Prerequisites
 1. Install XAMPP web server
@@ -39,13 +40,14 @@ Civil Hospital Management System using MySQL, Php and Bootstrap
   - For windows xampp files were built inside the folder htdocs (C:\xampp\htdocs for standard installations).
   - Sublime Text 3.2 was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
-  - 
 
 ### Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
   
   
 <p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
+
+
 ### GETTING INTO THE PROJECT:
 Civil Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
 ![login](https://user-images.githubusercontent.com/96255306/156760276-2469f07f-7868-4dc8-8234-b066d13c7798.PNG)

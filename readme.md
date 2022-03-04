@@ -40,11 +40,12 @@ You can contact CHMS: (048) 9230764.
 ### SOFTWARES USED
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp 
   - For windows xampp files were built inside the folder htdocs (C:\xampp\htdocs for standard installations).
-  - Sublime Text 3.2 was used as a text editor.
+  - Sublime Text 3.2 was used as a text editor.( Download link: https://www.sublimetext.com/download)
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
 
 ### Starting Apache And MySQL in XAMPP:
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
+  link: https://www.apachefriends.org/download.html
   
   
 <p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>

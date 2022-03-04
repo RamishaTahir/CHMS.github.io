@@ -1,6 +1,8 @@
 # Civil Hospital Management System
 Civil Hospital Management System using MySQL, Php and Bootstrap 
 
+You can contact CHMS: (048) 9230764.
+
 ## Need to work on:
 
 1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.

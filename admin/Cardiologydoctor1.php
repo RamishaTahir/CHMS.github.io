@@ -56,7 +56,13 @@
   </nav>
 
 <?php 
-$data = $_GET['id'];
+            
+if($data = $_GET['id'] == null)
+{
+header("Location: home.php");
+exit();
+}
+
 
 $conn = mysqli_connect("localhost","root","","doctor_appointment") or die("connection failed");
  $query = "SELECT * FROM doctor_table where doctor_id = {$data}" ;

@@ -33,7 +33,7 @@ You can contact CHMS: (048) 9230764.
 4. Start the Apache and Mysql in your XAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'mychmsdb'
-7. Import the file 'mychmsdb.sql' inside your newly created database and click ok.
+7. Import the file 'doctor_appointment.sql_2.zip' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
 9. Hurray! That's it!
 

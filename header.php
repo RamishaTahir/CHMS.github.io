@@ -32,14 +32,14 @@
 	<body>
 		<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
 			<div class="col">
-		    	<h5 class="my-0 mr-md-auto font-weight-normal">    <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> Civil Hospital. </a>
+		    	<h5 class="my-0 mr-md-auto font-weight-normal">    <a href="admin/home.php" class="logo" style=" text-decoration: none;  color: black;"> <i class="fas fa-heartbeat " style="color: green;"></i> Civil Hospital. </a>
 </h5>
 		    </div>
 		    <?php
 		    if(!isset($_SESSION['patient_id']))
 		    {
 		    ?>
-		    <div class="col text-right"><a href="login.php">Login</a></div>
+		    <div class="col text-right"><a href="login.php" style=" text-decoration: none;  color: black;">Login</a></div>
 		   	<?php
 		   	}
 		   	?>

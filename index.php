@@ -69,7 +69,7 @@ include('header.php');
 
 <?php
  
-include('admin/footer1.php');
+include('footer1.php');
 include('footer.php');
 
 ?>

@@ -30,7 +30,7 @@ $object = new Appointment;
 							<input type="text" name="patient_email_address" id="patient_email_address" class="form-control" required autofocus data-parsley-type="email" data-parsley-trigger="keyup" />
 						</div>
 						<div class="form-group">
-							<label>Patien Password</label>
+							<label>Patient Password</label>
 							<input type="password" name="patient_password" id="patient_password" class="form-control" required  data-parsley-trigger="keyup" />
 						</div>
 						<div class="form-group text-center">

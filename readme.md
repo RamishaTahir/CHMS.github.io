@@ -35,7 +35,8 @@ You can contact CHMS: (048) 9230764.
 6. In phpmyadmin page, create a new database from the left panel and name it as 'mychmsdb'
 7. Import the file 'doctor_appointment.sql_2.zip' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
-9. Hurray! That's it!
+9. you need live server for registration and email verfication
+10. Hurray! That's it!
 
 ### SOFTWARES USED
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp 

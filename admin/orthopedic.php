@@ -14,7 +14,7 @@
     <div class="container-fluid">
     <div class="row ">
       <form class="col-lg-12 md-6   ">
-  <div id="iconn" > <i class="fas fa-bone">Institute of Musculoskeletal Science & Orthopaedics </i></div>
+  <div id="iconn" > <i class="fas fa-bone">Institute of Musculoskeletal Science & Orthopedics </i></div>
 <span id="h11">
    </span>
    
@@ -32,11 +32,11 @@
     <div id="child">
         <h2>Overview</h2>
        
-<p style="text-align:justify;"> Institute of Musculoskeletal Sciences offers comprehensive care for several Orthopaedic afflictions including knee, hip, and joint problems. We are dubbed as the top orthopedic Hospital in India and are equipped with a wide array of specialties ranging from Sports Medicine, Paediatric orthopaedic services, arthritis Diagnosis to Treatment and Pain Management. We focus on providing the highest level of patient care with professional expertise for early mobilization and have taken orthopedic Treatment in Delhi to an altogether different level.
+<p style="text-align:justify;"> Institute of Musculoskeletal Sciences offers comprehensive care for several Orthopedic afflictions including knee, hip, and joint problems. We are dubbed as the top orthopedic Hospital in India and are equipped with a wide array of specialties ranging from Sports Medicine, Paediatric orthopaedic services, arthritis Diagnosis to Treatment and Pain Management. We focus on providing the highest level of patient care with professional expertise for early mobilization and have taken orthopedic Treatment in Delhi to an altogether different level.
 <br>
-We perform procedures like Computer Assisted Joint Replacement Surgery, Arthroscopic Surgery, Traumatic Orthopaedic Surgery, Hand, Shoulder & Elbow Surgery, Spine Surgery, Articular Surface Replacement Hip Surgery, Foot & Ankle Surgery, Total Knee & Hip Replacement Surgery among several others.
+We perform procedures like Computer Assisted Joint Replacement Surgery, Arthroscopic Surgery, Traumatic Orthopedic Surgery, Hand, Shoulder & Elbow Surgery, Spine Surgery, Articular Surface Replacement Hip Surgery, Foot & Ankle Surgery, Total Knee & Hip Replacement Surgery among several others.
 <br>
-Max Institute of Musculoskeletal Sciences is equipped with a digital Orthopaedic operating suite. The joint implants are planned pre-operatively for perfect size and positioning as per the anatomy of the patient, thereby safeguarding the patients. Our wide range of offerings have made us rank among the best hospitals in India.</p>
+Max Institute of Musculoskeletal Sciences is equipped with a digital Orthopedic operating suite. The joint implants are planned pre-operatively for perfect size and positioning as per the anatomy of the patient, thereby safeguarding the patients. Our wide range of offerings have made us rank among the best hospitals in India.</p>
 
 <br>
 

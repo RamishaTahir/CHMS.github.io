@@ -27,7 +27,7 @@
 
     <ol>
       <li><a href="home.php">home</a></li>
-      <li><a href="services.html">services</a></li>
+      <li><a href="services.php">services</a></li>
       <li><a href="treatment.php">treatment</a></li>
       <li><a href="about us.php">about</a></li>
       <li>        <a href="contact us.php">Contact Us</a></li>

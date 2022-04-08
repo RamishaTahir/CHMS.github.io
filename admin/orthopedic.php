@@ -158,7 +158,7 @@ Arthritis is a common joint disorder featuring inflammation of one or more joint
 <div style="width: 99%; height: 7rem ; background-color:#f5f5f5;">
 <h1 style="text-align: center; font-size: 40px;margin-top: 80px;margin-bottom: 50px"> Our Experts</h1>
 </div>
-
+<!-- 
       <article id="a">
       <div class="searchBox">
             <!-- <input class="searchInput"type="text" name="" placeholder="Search"  id="input" 
@@ -179,7 +179,7 @@ Arthritis is a common joint disorder featuring inflammation of one or more joint
      
       <ul class="dropdown" id="dropdown"></ul>
         </div>
-    </article>
+    </article> -->
 
 <!--<div id="searchresult"></div>  -->
 <?php 

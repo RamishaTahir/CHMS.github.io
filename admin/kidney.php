@@ -4,7 +4,7 @@
     include('header1.php');
 ?>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="s384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="../css/orhto.css">
@@ -44,23 +44,23 @@
   <li> Cramps and twisting</li>
 </ul>
 <br>
-<p style="text-align:justify;">When your kidneys are no longer working properly, there are treatments such as haemodialysis and peritoneal dialysis which can filter the waste products from your body. However, dialysis does not perform many of the other vital functions such as stimulating the production of red blood cells. In this case, only a kidney transplant can work. </p>
+<p style="text-align:justify;">When your kidneys are no longer working properly, there are treatments such as hemodialysis and peritoneal dialysis which can filter the waste products from your body. However, dialysis does not perform many of the other vital functions such as stimulating the production of red blood cells. In this case, only a kidney transplant can work. </p>
 <br><br>
 
-<h2> Dietry Managment</h2><br>
+<h2> Dietary Management</h2><br>
 <p  style="text-align:justify;">
   Five main constituents of the diet have to be included while planning the diet for a patient with chronic renal failure. These are fluid (water), protein, sodium, potassium (salts), and phosphorus.</p>
  
 <br>
 <h2> Physiotherapy</h2><br>
 
-<p  style="text-align:justify;"> The goals of physiotherapy for organ transplant patients are to: Minimise post-operative pulmonary <br>complications; Minimise the deconditioning effects of bed rest; Increase general<br> strength, endurance and flexibility; Develop and reinforce a habit of regular exercise.</p>
+<p  style="text-align:justify;"> The goals of physiotherapy for organ transplant patients are to: Minimize post-operative pulmonary <br>complications; Minimize the deconditioning effects of bed rest; Increase general<br> strength, endurance and flexibility; Develop and reinforce a habit of regular exercise.</p>
 
 <br>
-<p  style="text-align:justify;">When your kidneys are no longer working properly, there are treatments such as haemodialysis and peritoneal dialysis which can filter the waste products from your body. However, dialysis does not perform many of the other vital functions such as stimulating the production of red blood cells. In this case, only a kidney transplant can work. </p>
+<p  style="text-align:justify;">When your kidneys are no longer working properly, there are treatments such as hemodialysis and peritoneal dialysis which can filter the waste products from your body. However, dialysis does not perform many of the other vital functions such as stimulating the production of red blood cells. In this case, only a kidney transplant can work. </p>
 </div>
 </div>
-<h2>Dietry Managment</h2><br>
+<h2>Dietray Management</h2><br>
 <p style="font-size: 15px; text-align: justify;">
   
   Five main constituents of the diet have to be included while planning the diet for a patient with chronic renal failure. These are fluid (water), protein, sodium, potassium (salts), and phosphorus.</p>

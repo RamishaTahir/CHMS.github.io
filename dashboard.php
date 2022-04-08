@@ -2,8 +2,6 @@
 
 //dashboard.php
 
-
-
 include('class/Appointment.php');
 
 $object = new Appointment;
@@ -15,7 +13,13 @@ include('header.php');
 <div class="container-fluid">
 	<?php
 	include('navbar.php');
-	?>
+	
+	if ($_SESSION['patient_name'] == null)
+	{
+		header("location:login.php");
+		exit();
+	}
+?>
 	    <link rel="stylesheet" href="css/sty.css">
 
 	<br />

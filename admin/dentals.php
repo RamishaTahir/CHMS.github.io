@@ -118,7 +118,7 @@ include('search.php');
 <h1 style="text-align: center; font-size: 40px;margin-top: 80px;margin-bottom: 50px"> Our Experts</h1>
 </div>
 
-      <article id="a">
+<!--       <article id="a">
       <div class="searchBox">
             <!-- <input class="searchInput"type="text" name="" placeholder="Search"  id="input" 
                                autocomplete="off">
@@ -138,7 +138,7 @@ include('search.php');
      
       <ul class="dropdown" id="dropdown"></ul>
         </div>
-    </article>
+    </article> -->
 
 <!--<div id="searchresult"></div>  -->
 <?php 

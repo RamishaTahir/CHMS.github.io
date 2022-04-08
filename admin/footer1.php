@@ -17,7 +17,7 @@
             <a href="Pulmonology.php"> <i class="fas fa-chevron-right"></i> Pulmonology</a>
             <a href="Cardiology.php"> <i class="fas fa-chevron-right"></i> cardiology </a>
             <a href="Orthopedic.php"> <i class="fas fa-chevron-right"></i> Orthopedic </a>
-            <a href="neurosciences.php"> <i class="fas fa-chevron-right"></i> neurosciences </a>
+            <a href="neuroscience.php"> <i class="fas fa-chevron-right"></i> neurosciences </a>
             <a href="Oncology.php"> <i class="fas fa-chevron-right"></i> Oncology </a>
             <a href="kidney.php"> <i class="fas fa-chevron-right"></i> kidney transplant </a>
             

@@ -32,7 +32,7 @@
     <div id="child">
         <h2>Overview</h2>
        
-<p style="text-align:justify;"> Institute of Musculoskeletal Sciences offers comprehensive care for several Orthopedic afflictions including knee, hip, and joint problems. We are dubbed as the top orthopedic Hospital in India and are equipped with a wide array of specialties ranging from Sports Medicine, Paediatric orthopaedic services, arthritis Diagnosis to Treatment and Pain Management. We focus on providing the highest level of patient care with professional expertise for early mobilization and have taken orthopedic Treatment in Delhi to an altogether different level.
+<p style="text-align:justify;"> Institute of Musculoskeletal Sciences offers comprehensive care for several Orthopedic afflictions including knee, hip, and joint problems. We are dubbed as the top orthopedic Hospital in India and are equipped with a wide array of specialties ranging from Sports Medicine, Pediatrics orthopedic services, arthritis Diagnosis to Treatment and Pain Management. We focus on providing the highest level of patient care with professional expertise for early mobilization and have taken orthopedic Treatment in Delhi to an altogether different level.
 <br>
 We perform procedures like Computer Assisted Joint Replacement Surgery, Arthroscopic Surgery, Traumatic Orthopedic Surgery, Hand, Shoulder & Elbow Surgery, Spine Surgery, Articular Surface Replacement Hip Surgery, Foot & Ankle Surgery, Total Knee & Hip Replacement Surgery among several others.
 <br>

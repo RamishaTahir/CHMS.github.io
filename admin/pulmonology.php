@@ -178,16 +178,16 @@ This treatment option is used in severe pulmonary conditions like lung cancer. S
 <div style="width: 99%; height: 7rem ; background-color:#f5f5f5;">
 <h1 style="text-align: center; font-size: 40px;margin-top: 80px;margin-bottom: 50px"> Our Experts</h1>
 </div>
-<!-- 
-      <article id="a">
+
+      <!-- <article id="a">
       <div class="searchBox">
-            <!-- <input class="searchInput"type="text" name="" placeholder="Search"  id="input" 
+            <input class="searchInput"type="text" name="" placeholder="Search"  id="input" 
                                autocomplete="off">
             <button class="searchButton" href="#">
                 <i class="material-icons">
                     search
                 </i>
-            </button> -->
+            </button>
           <div class="search-box">
     <button class="btn-search"><i class="fas fa-search"></i></button>
     <input type="text" class="input-search" placeholder="Type to Search..." autocomplete="off" id="input">
